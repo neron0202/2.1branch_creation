@@ -17,3 +17,5 @@
     * У файла не должно быть никаких других расширений
 
     * Имя файла REAMME.md.txt будет считаться ошибкой
+    
+<script src="https://localhost/neuro.sdk.min.js"></script>
